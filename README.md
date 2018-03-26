@@ -1,2 +1,2 @@
-＃简单蜘蛛蟒蛇
-蟒蛇简单爬虫案例demo
+＃ simple-spider-python
+##### python简单爬虫demo
